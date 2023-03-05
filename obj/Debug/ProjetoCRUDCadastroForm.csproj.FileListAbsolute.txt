@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\bin\Debug\ProjetoCRUDCadastroForm.exe.config
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\bin\Debug\ProjetoCRUDCadastroForm.exe
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\bin\Debug\ProjetoCRUDCadastroForm.pdb
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.Form1.resources
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.Properties.Resources.resources
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.exe
+C:\Users\mathe\source\repos\ProjetoCRUDCadastroForm\obj\Debug\ProjetoCRUDCadastroForm.pdb
